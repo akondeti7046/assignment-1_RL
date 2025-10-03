@@ -1,4 +1,4 @@
-echo "# CSCN8020 — Reinforcement Learning Programming (Assignment 1)
+
 
 ## Student Info
 - **Name:** Adhitya Kondeti  
@@ -20,7 +20,7 @@ This assignment covers:
 Clone the repo and install dependencies:
 
 \`\`\`bash
-git clone https://github.com/akondeti7046/RL_Assignment1.git
+git clone https://github.com/akondeti7046/assignment-1_RL.git
 cd RL_Assignment1
 pip install -r requirements.txt
 \`\`\`
