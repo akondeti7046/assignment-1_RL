@@ -45,6 +45,4 @@ Open \`assignment 1 RL.ipynb\` or the exported \`assignment 1 RL.html\` and run 
 
 ---
 
-## Author
-**Adhitya Kondeti**  
-Student ID: 8997046" > README.md
+
