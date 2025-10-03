@@ -21,7 +21,6 @@ Clone the repo and install dependencies:
 
 \`\`\`bash
 git clone https://github.com/akondeti7046/assignment-1_RL.git
-cd RL_Assignment1
 pip install -r requirements.txt
 \`\`\`
 
